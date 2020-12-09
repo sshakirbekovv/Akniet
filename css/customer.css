@@ -1,0 +1,177 @@
+/* Opportunities */
+#opportunities {
+    background: #37424D;
+    padding: 80px 0;
+  }
+#opportunities .box{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+#opportunities .box img{
+    max-width: 100%;
+    height:auto;
+}
+#opportunities .row{
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+/* End Opportunities */
+
+/* Cards */
+#cards {
+    background: white;
+    padding: 0;
+  }
+  #cards .container{
+     padding: 0 90px 180px 90px;
+  }
+.cards-header .cards-title {
+    font-size: 44px;
+    color: black;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 700;
+    margin-bottom: 40px;
+    padding-top: 50px;
+  }
+  
+.cards-header .cards-description {
+    text-align: center;
+    color: black;
+    padding-bottom: 120px;
+    font-size: 20px;
+  }
+.cards-header img{
+    max-width: 50%;
+    height:auto;
+}
+/* End Cards */
+
+/* Subscribe */
+#subscribe{
+  background: white;
+  padding: 80px 0;
+}
+#subscribe .subscribe-container .background{
+  min-height:900px;
+  background: url(../img/iphone_shadow.png) center center no-repeat;
+  background-size: contain;
+  max-width: 100%;
+}
+#subscribe .subscribe-container .title{
+  color: #1B1B1B;
+  font-weight: 700;
+  font-size: 44px;
+  font-weight: bold;
+}
+#subscribe .subscribe-container span{
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: #111111;
+  padding-left: 20px;
+}
+#subscribe .subscribe-container img{
+  max-width: 30%;
+  height:auto;
+}
+#subscribe .subscribe-container .content{
+  background: url(../img/case.png) center center no-repeat;
+  background-size: contain;
+}
+/* End Subscribe */
+
+/* Subscribe1 */
+#subscribe1{
+  background: white;
+  padding: 80px 0;
+}
+#subscribe1 .subscribe1-container .background{
+  min-height:900px;
+  background: url(../img/iphone_shadow1.png) center center no-repeat;
+  background-size: contain;
+  max-width: 100%;
+}
+#subscribe1 .subscribe1-container .title{
+  color: #1B1B1B;
+  font-weight: 700;
+  font-size: 44px;
+  font-weight: bold;
+}
+#subscribe1 .subscribe1-container span{
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: #111111;
+  padding-left: 20px;
+}
+#subscribe1 .subscribe1-container img{
+  max-width: 30%;
+  height:auto;
+}
+#subscribe1 .subscribe1-container .content{
+  background: url(../img/track.png) center center no-repeat;
+  background-size: contain;
+}
+/* End Subscribe1 */
+
+/* Subscribe2 */
+#subscribe2{
+  background: white;
+  padding: 80px 0;
+}
+#subscribe2 .subscribe2-container .background{
+  min-height:900px;
+  background: url(../img/iphone_shadow2.png) center center no-repeat;
+  background-size: contain;
+  max-width: 100%;
+}
+#subscribe2 .subscribe2-container .title{
+  color: #1B1B1B;
+  font-weight: 700;
+  font-size: 44px;
+  font-weight: bold;
+}
+#subscribe2 .subscribe2-container span{
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: #111111;
+  padding-left: 20px;
+}
+#subscribe2 .subscribe2-container img{
+  max-width: 30%;
+  height:auto;
+}
+#subscribe2 .subscribe2-container .content{
+  /*background: url(../img/europh.png) center center no-repeat;*/
+  background:white;
+  background-size: contain;
+}
+#subscribe2 .section-footer p{
+  text-align:center;
+}
+#subscribe2 .section-footer .description{
+  color: #1B1B1B;
+  font-size: 36px;
+  font-weight: bold;
+}
+#subscribe2 .section-footer .title{
+  font-family: Century Gothic;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  color: #111111;
+}
+#subscribe2 .section-footer p .cen{
+  padding-left: 40px;
+}
+/* End Subscribe2 */
